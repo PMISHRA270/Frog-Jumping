@@ -3,6 +3,8 @@
 typedef struct {int r, d;}launcher;
 typedef struct {int l, u, w;}info;
 
+https://drive.google.com/drive/folders/0B4rypo8wmXSnaGtjTFVhYjBubEU
+
 int M,N;
 launcher chessboard[250][250];
 info weights[250][250];
